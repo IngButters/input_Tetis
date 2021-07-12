@@ -1,10 +1,6 @@
-This is line 1
-This is line 2
-This is line 3
-This is line 4
-This is line 5
-This is line 6
-This is line 7
-This is line 8
-This is line 9
-This is line 10
+G               26298         1440
+*         dd-mm-aaaa  hh:mm
+F           01-01-1950      00:00
+P         "21210150" 428438.89 -7554233.33      3280
+P         "21215160" 447036.11 -7524386.11      1946
+P         "21210130" 438033.33 -7551175.0      295
